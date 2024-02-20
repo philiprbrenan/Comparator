@@ -1,0 +1,2 @@
+# Comparator
+Cascading AND comparator
