@@ -8,9 +8,9 @@ Stored  Measure   Channel  Result
 1       1         0        0
 1       1         1        1
 
-Result =  (Measure AND Stored AND CHANNEL) OR (¬Measure AND Channel)
-Result =  ((Measure AND Stored) OR ¬Measure) AND Channel)
-Result =  (¬Measure OR Stored) AND Channel)
+Result =  (Measure AND Stored AND CHANNEL) OR (Â¬Measure AND Channel)
+Result =  ((Measure AND Stored) OR Â¬Measure) AND Channel)
+Result =  (Â¬Measure OR Stored) AND Channel)
 
 Less than = (Stored and !Measure and Channel)
 
